@@ -16,7 +16,7 @@ Folders are in **bold text** and a description of their contents are in plain te
     - **data output**
       - any data produced through running the code
     - **figures**
-     - any figures produced by running the code
+      - any figures produced by running the code
   - *2b_x.Rmd*: statistical analysis
 - **3 Regularise/HMM**
   - *3a_x.Rmd*: regularise GPS detections and run HMMs, extract behaviour states
