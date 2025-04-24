@@ -6,3 +6,7 @@ date: "2025-04-24"
 ---
 
 # test github to r
+```{r}
+plot(1,2)
+```
+
