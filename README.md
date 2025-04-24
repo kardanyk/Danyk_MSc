@@ -1,12 +1,18 @@
 # Danyk_MSc
-testing repo
-A line i wrote on my computer
-computer
-<<<<<<< HEAD
-rstudio
-rstudio 2
-=======
-push to r
->>>>>>> 7b982ff6a94b3ce0224be118b39af2d8ce10d536
 
-push to github
+# 1
+## 2
+### 3
+#### 4
+##### 5
+###### 6
+
+*italic*   **bold**
+
+_italic_   __bold__
+
+1. Item 1
+2. Item 2
+3. Item 3
+    + Item 3a
+    + Item 3b
